@@ -1,0 +1,133 @@
+
+New Transformer.XFM1 Phases=1 Windings=2 Xhl=12.5  wdg=1 bus=2 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=34 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+
+New Transformer.XFM2 Phases=1 Windings=2 Xhl=12.5  wdg=1 bus=3 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=53 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+
+New Transformer.XFM3 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=4 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=69 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+
+New Transformer.XFM4 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=5 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=82 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM5 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=6 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=95 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM6 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=7 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=108 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM7 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=7 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=127 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM8 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=8 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=146 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM9 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=8 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=165 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM10 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=9 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=184 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM11 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=10 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=197 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM12 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=11 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=210 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM13 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=12 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=220 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM14 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=13 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=233 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM15 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=14 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=246 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM16 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=15 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=265 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+
+New Transformer.XFM17 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=16 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=278 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM18 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=17 conn=wye kv=12.66 kva=1000 %r=0.248264 
+~ wdg=2 bus=291 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM19 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=18 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=304 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM20 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=19 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=320 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM21 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=20 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=336 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM22 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=21 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=352 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM23 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=22 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=368 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM24 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=23 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=384 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM25 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=24 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=400 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM26 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=24 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=419 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM27 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=24 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=438 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM28 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=24 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=457 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM29 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=25 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=476 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM30 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=25 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=495 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM31 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=25 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=514 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM32 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=25 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=533 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM33 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=26 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=552 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM34 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=27 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=565 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM35 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=28 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=578 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM36 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=29 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=591 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM37 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=30 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=610 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM38 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=30 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=629 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM39 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=31 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=648 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM40 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=31 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=664 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM41 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=32 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=680 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM42 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=32 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=699 conn=wye kv=0.24 kva=100 %r=0.248264 
+
+New Transformer.XFM43 Phases=1 Windings=2 Xhl=12.5 wdg=1 bus=33 conn=wye kv=12.66 kva=100 %r=0.248264 
+~ wdg=2 bus=718 conn=wye kv=0.24 kva=100 %r=0.248264 
