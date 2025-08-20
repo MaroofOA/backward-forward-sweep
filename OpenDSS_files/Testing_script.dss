@@ -1,0 +1,8 @@
+Clear
+New Circuit.test_Ybus bus1=1 phases=1 pu=1.0 angle=0
+
+// Define line data with original impedances
+New Line.Line1 bus1=1 bus2=2 phases=1 R1=0.1 X1=0.2
+New Line.Line2 bus1=2 bus2=3 phases=1 R1=0.05 X1=0.1
+
+Solve

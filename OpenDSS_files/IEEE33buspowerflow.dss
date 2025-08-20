@@ -1,0 +1,82 @@
+Clear
+New Circuit.IEEE33bus bus1=1 phases=1 basekV=12.66 pu=1.0 angle=0  R1=0.0001 X1=0.0001
+Set Maxiterations=100
+Set tolerance=1e-6
+Set Voltagebases= 21.9278
+
+// Define the voltage source (slack bus) explicitly
+New Vsource.SourceBus bus1=1 phases=1 basekV=12.66 pu=1.0 angle=0  R1=0.0001 X1=0.0001
+
+// Define Loads
+New Load.Load1 bus1=2 phases=1 kV=12.66 kw=100 kvar=60 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load2 bus1=3 phases=1 kV=12.66  kw=90 kvar=40 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load3 bus1=4 phases=1 kV=12.66  kw=120 kvar=80 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load4 bus1=5 phases=1 kV=12.66  kw=60 kvar=30 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load5 bus1=6 phases=1 kV=12.66  kw=60 kvar=20 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load6 bus1=7 phases=1 kv=12.66 kw=200 kvar=100 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load7 bus1=8 phases=1 kv=12.66 kw=200 kvar=100 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load8 bus1=9 phases=1 kv=12.66 kw=60 kvar=20 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load9 bus1=10 phases=1 kv=12.66 kw=60 kvar=20 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load10 bus1=11 phases=1 kv=12.66 kw=45 kvar=30 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load11 bus1=12 phases=1 kv=12.66 kw=60 kvar=35 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load12 bus1=13 phases=1 kv=12.66 kw=60 kvar=35 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load13 bus1=14 phases=1 kv=12.66 kw=120 kvar=80 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load14 bus1=15 phases=1 kv=12.66 kw=60 kvar=10 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load15 bus1=16 phases=1 kv=12.66 kw=60 kvar=20 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load16 bus1=17 phases=1 kv=12.66 kw=60 kvar=20 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load17 bus1=18 phases=1 kv=12.66 kw=90 kvar=40 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load18 bus1=19 phases=1 kv=12.66 kw=90 kvar=40 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load19 bus1=20 phases=1 kv=12.66 kw=90 kvar=40 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load20 bus1=21 phases=1 kv=12.66 kw=90 kvar=40 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load21 bus1=22 phases=1 kv=12.66 kw=90 kvar=40 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load22 bus1=23 phases=1 kv=12.66 kw=90 kvar=50 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load23 bus1=24 phases=1 kv=12.66 kw=420 kvar=200 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load24 bus1=25 phases=1 kv=12.66 kw=420 kvar=200 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load25 bus1=26 phases=1 kv=12.66 kw=60 kvar=25 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load26 bus1=27 phases=1 kv=12.66 kw=60 kvar=25 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load27 bus1=28 phases=1 kv=12.66 kw=60 kvar=20 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load28 bus1=29 phases=1 kv=12.66 kw=120 kvar=70 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load29 bus1=30 phases=1 kv=12.66 kw=200 kvar=600 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load30 bus1=31 phases=1 kv=12.66 kw=150 kvar=70 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load31 bus1=32 phases=1 kv=12.66 kw=210 kvar=100 Vminpu = 0.9 Vmaxpu = 1.1
+New Load.Load32 bus1=33 phases=1 kv=12.66 kw=60 kvar=40 Vminpu = 0.9 Vmaxpu = 1.1
+
+// Define line data with original impedances
+New Line.Line1 bus1=1 bus2=2 phases=1 R1=0.0922 X1=0.0470
+New Line.Line2 bus1=2 bus2=3 phases=1 R1=0.4930 X1=0.2511
+New Line.Line3 bus1=3 bus2=4 phases=1 R1=0.3660 X1=0.1864
+New Line.Line4 bus1=4 bus2=5 phases=1 R1=0.3811 X1=0.1941
+New Line.Line5 bus1=5 bus2=6 phases=1 R1=0.8190 X1=0.7070
+New Line.Line6 bus1=6 bus2=7 phases=1 R1=0.1872 X1=0.6188
+New Line.Line7 bus1=7 bus2=8 phases=1 R1=0.7114 X1=0.2351
+New Line.Line8 bus1=8 bus2=9 phases=1 R1=1.0300 X1=0.7400
+New Line.Line9 bus1=9 bus2=10 phases=1 R1=1.0440 X1=0.7400
+New Line.Line10 bus1=10 bus2=11 phases=1 R1=0.1966 X1=0.0650
+New Line.Line11 bus1=11 bus2=12 phases=1 R1=0.3744 X1=0.1238
+New Line.Line12 bus1=12 bus2=13 phases=1 R1=1.4680 X1=1.1550
+New Line.Line13 bus1=13 bus2=14 phases=1 R1=0.5416 X1=0.7129
+New Line.Line14 bus1=14 bus2=15 phases=1 R1=0.5910 X1=0.5260
+New Line.Line15 bus1=15 bus2=16 phases=1 R1=0.7463 X1=0.5450
+New Line.Line16 bus1=16 bus2=17 phases=1 R1=1.2890 X1=1.7210
+New Line.Line17 bus1=17 bus2=18 phases=1 R1=0.7320 X1=0.5740
+New Line.Line18 bus1=2 bus2=19 phases=1 R1=0.1640 X1=0.1565
+New Line.Line19 bus1=19 bus2=20 phases=1 R1=1.5042 X1=1.3554
+New Line.Line20 bus1=20 bus2=21 phases=1 R1=0.4095 X1=0.4784
+New Line.Line21 bus1=21 bus2=22 phases=1 R1=0.7089 X1=0.9373
+New Line.Line22 bus1=3 bus2=23 phases=1 R1=0.4512 X1=0.3083
+New Line.Line23 bus1=23 bus2=24 phases=1 R1=0.8980 X1=0.7091
+New Line.Line24 bus1=24 bus2=25 phases=1 R1=0.8960 X1=0.7011
+New Line.Line25 bus1=6 bus2=26 phases=1 R1=0.2030 X1=0.1034
+New Line.Line26 bus1=26 bus2=27 phases=1 R1=0.2842 X1=0.1447
+New Line.Line27 bus1=27 bus2=28 phases=1 R1=1.0590 X1=0.9337
+New Line.Line28 bus1=28 bus2=29 phases=1 R1=0.8042 X1=0.7006
+New Line.Line29 bus1=29 bus2=30 phases=1 R1=0.5075 X1=0.2585
+New Line.Line30 bus1=30 bus2=31 phases=1 R1=0.9744 X1=0.9630
+New Line.Line31 bus1=31 bus2=32 phases=1 R1=0.3105 X1=0.3619
+New Line.Line32 bus1=32 bus2=33 phases=1 R1=0.3410 X1=0.5302
+
+// To return the p.u. output of the voltage for all buses
+CalcVoltageBases
+
+// Solve the power flow
+Solve

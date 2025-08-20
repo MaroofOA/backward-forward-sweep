@@ -1,0 +1,47 @@
+
+LOSSES REPORT
+
+Power Delivery Element Loss Report
+
+Element                  kW Losses    % of Power   kvar Losses
+
+"Line.LINE1"         11.55154,     0.30     5.68369
+"Line.LINE2"         48.52893,     1.45     24.5158
+"Line.LINE3"         18.17493,     0.80     9.05904
+"Line.LINE4"         16.99710,     0.80     8.46247
+"Line.LINE5"         34.68693,     1.69     29.7539
+"Line.LINE6"          1.75704,     0.17     5.62255
+"Line.LINE7"          4.36535,     0.51     1.25875
+"Line.LINE8"          3.69443,     0.57     2.4724
+"Line.LINE9"          3.12904,     0.53     2.03823
+"Line.LINE10"         0.48449,     0.09     -0.0182853
+"Line.LINE11"         0.76802,     0.16     0.0759077
+"Line.LINE12"         2.31133,     0.54     1.64182
+"Line.LINE13"         0.63030,     0.17     0.654449
+"Line.LINE14"         0.30689,     0.12     0.0985686
+"Line.LINE15"         0.24127,     0.12     0.00211172
+"Line.LINE16"         0.21509,     0.15     0.113695
+"Line.LINE17"         0.04540,     0.05     -0.137429
+"Line.LINE18"         0.16069,     0.04     -0.0508006
+"Line.LINE19"         0.83088,     0.31     0.545379
+"Line.LINE20"         0.10061,     0.06     -0.0848881
+"Line.LINE21"         0.04359,     0.05     -0.144523
+"Line.LINE22"         3.17683,     0.34     1.97272
+"Line.LINE23"         5.13663,     0.61     3.86019
+"Line.LINE24"         1.28580,     0.31     0.812195
+"Line.LINE25"         2.32358,     0.26     0.997809
+"Line.LINE26"         2.95942,     0.35     1.32188
+"Line.LINE27"         9.99851,     1.29     8.63315
+"Line.LINE28"         6.91396,     0.97     5.84449
+"Line.LINE29"         3.42981,     0.58     1.57034
+"Line.LINE30"         1.38600,     0.35     1.19448
+"Line.LINE31"         0.18514,     0.07     0.041388
+"Line.LINE32"         0.01142,     0.02     -0.156436
+
+LINE LOSSES=                       185.8 kW
+TRANSFORMER LOSSES=                  0.0 kW
+
+TOTAL LOSSES=                      185.8 kW
+
+TOTAL LOAD POWER =                3629.7 kW
+Percent Losses for Circuit =      5.12 %

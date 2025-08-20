@@ -1,0 +1,13 @@
+New load.S3a    Bus=3.1   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=40  kvar=20       Vminpu=0.2  Vmaxpu=1.1
+New load.S4b    Bus=4.2   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=20  kvar=10       Vminpu=0.2  Vmaxpu=1.1
+New load.S6c    Bus=6.3   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=40  kvar=20       Vminpu=0.2  Vmaxpu=1.1
+New load.S7c    Bus=7.3   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=20  kvar=10       Vminpu=0.2  Vmaxpu=1.1
+New load.S8c    Bus=8.3   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=40  kvar=20       Vminpu=0.2  Vmaxpu=1.1
+New load.S9a    Bus=9.1   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=20  kvar=10       Vminpu=0.2  Vmaxpu=1.1
+New load.S11a    Bus=11.1   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=40  kvar=20       Vminpu=0.2  Vmaxpu=1.1
+New load.S12a    Bus=12.1   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=20  kvar=10       Vminpu=0.2  Vmaxpu=1.1
+New load.S13a    Bus=13.1   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=40  kvar=20       Vminpu=0.2  Vmaxpu=1.1
+New load.S14b    Bus=14.2   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=20  kvar=10       Vminpu=0.2  Vmaxpu=1.1
+New load.S18c    Bus=18.3   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=40  kvar=20       Vminpu=0.2  Vmaxpu=1.1
+New load.S19c    Bus=19.3   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=20  kvar=10       Vminpu=0.2  Vmaxpu=1.1
+New load.S20c    Bus=20.3   Phases=1   Conn=Wye  Model=1   kv=2.4   kw=40  kvar=20       Vminpu=0.2  Vmaxpu=1.1

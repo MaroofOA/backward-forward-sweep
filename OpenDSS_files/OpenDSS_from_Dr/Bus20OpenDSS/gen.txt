@@ -1,0 +1,8 @@
+New generator.4a  Phases=1   Bus1=4.2   kV = 2.4   kW=50   kVAr=-32.6972
+New generator.8c  Phases=1   Bus1=8.3   kV = 2.4   kW=70   kVAr=-46.4
+New generator.13a  Phases=1   Bus1=23.1   kV = 2.4   kW=100   kVAr=-66.3
+New generator.15a  Phases=1   Bus1=15.1   kV = 2.4   kW=50   kVAr=-32.6972
+New generator.15b  Phases=1   Bus1=15.2   kV = 2.4   kW=50   kVAr=-32.6972
+New generator.15c  Phases=1   Bus1=15.3   kV = 2.4   kW=50   kVAr=-32.6972
+New generator.19c  Phases=1   Bus1=19.3   kV = 2.4   kW=50   kVAr=-32.6972
+

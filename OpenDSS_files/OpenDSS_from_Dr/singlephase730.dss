@@ -1,0 +1,28 @@
+Clear
+New Circuit.ckt730
+
+~ basekv=12.66 pu=1 phases=1 bus1=1 
+~ Angle=0                                                       ! advance angle 30 deg so result agree with published angle 0.5774
+~ MVAsc3=200000 MVASC1=2100000    ! stiffen the source to approximate inf source
+
+redirect Lines.dss
+redirect Transformers.dss
+redirect Loads.dss
+
+
+set loadmult = 1
+ 
+Set Voltagebases=[21.9278 0.416]
+
+calcv
+
+!New Monitor.Timer Vsource.SOURCE  mode=5
+!New EnergyMeter.EM1  Element=Line.L1 Terminal=1  
+!Solve Algorithm=Newton
+Solve
+
+!plot profile 
+!Show Voltages LN Nodes
+!Show Powers kVA Elem
+
+
