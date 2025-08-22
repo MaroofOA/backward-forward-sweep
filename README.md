@@ -62,3 +62,6 @@ This provides a comprehensive tool for conducting power flow analysis in distrib
 
 - `bfs_method.py`: Python code for the Backward Forward Sweep power flow analysis.
 - `bfs_method.m`: MATLAB code for the Backward Forward Sweep power flow analysis.
+
+## Reference
+- Anamika Dubey and Sumit Paudyal (2023), “Distribution System Optimization to Manage Distributed Energy Resources (DERs) for Grid Services”, Foundations and Trends® in Electric Energy Systems: Vol. 6, No. 3-4, pp 120–264. DOI: 10.1561/3100000030.
